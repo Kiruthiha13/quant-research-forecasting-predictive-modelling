@@ -160,10 +160,11 @@ Injection / Withdrawal Schedule
 ## Repository Structure
 
 ```text
-Natural-Gas-Storage-Contract-Pricing/
+quant-research-forecasting-predictive-modelling/
 │
-├── Task_1_Price_Analysis_and_Forecasting.ipynb
-├── Task_2_Commodity_Storage_Contract_Pricing.ipynb
+├── scripts/
+│   └── Commodity_Price_Forecasting_and_Storage_Contract_Pricing.ipynb
+│
 └── README.md
 ```
 
