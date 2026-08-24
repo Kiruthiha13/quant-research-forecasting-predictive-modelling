@@ -1,4 +1,4 @@
-# Commodity Storage Contract Pricing
+# Commodity Price Analysis and Storage Contract Pricing
 
 ## Project Overview
 
