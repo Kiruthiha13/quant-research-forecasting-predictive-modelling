@@ -1,4 +1,4 @@
-# Natural Gas Storage Contract Pricing
+# Commodity Storage Contract Pricing
 
 ## Project Overview
 
