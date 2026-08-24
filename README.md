@@ -62,7 +62,6 @@ Develop a prototype pricing function that calculates the value of a natural gas 
 ### Pricing Concept
 
 The basic value of the contract is determined by the difference between the selling price and purchasing price, multiplied by the quantity of gas traded.
-
 Additional costs associated with storing and handling the commodity are deducted from the contract value.
 
 Conceptually:
@@ -201,3 +200,9 @@ Potential improvements to the prototype include:
 * Discounting of future cash flows when non-zero interest rates are introduced.
 
 ---
+
+🧑‍💻 About Me
+
+Hi there! I'm Kiruthiha. I’m an IT professional working extensively with data to drive insights, support decision-making, and improve business outcomes. I’m passionate about turning raw data into meaningful stories through analysis and visualization.
+
+Let’s connect and discuss how data can power better business outcomes! 🚀
