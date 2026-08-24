@@ -11,8 +11,6 @@ The project consists of two tasks:
 * **Task 1 – Investigate and Analyze Price Data**
 * **Task 2 – Price a Commodity Storage Contract**
 
-
-
 ## Business Objective
 
 Natural gas storage contracts allow market participants to purchase gas when prices are relatively low, store it, and withdraw and sell it at a later date when prices may be higher.
@@ -23,8 +21,6 @@ This project therefore addresses two key requirements:
 
 1. Develop a method to estimate natural gas prices for dates where market observations are unavailable.
 2. Use those price estimates to calculate the value of a storage contract while considering operational constraints and associated costs.
-
-
 
 ## Task 1 – Investigate and Analyze Price Data
 
@@ -50,8 +46,6 @@ The analysis includes:
 Natural gas prices can exhibit seasonal behavior because demand for heating and other factors can vary throughout the year. Therefore, the price estimation approach considers the relationship between price movements and the time of year rather than relying only on a simple linear trend.
 
 The resulting price function provides the estimated commodity price required by the storage contract pricing model in Task 2.
-
-
 
 ## Task 2 – Price a Commodity Storage Contract
 
@@ -102,8 +96,6 @@ The function returns the calculated **value of the storage contract** based on t
 
 Sample scenarios were used to test the pricing function with different injection and withdrawal dates and quantities.
 
-
-
 ## Methodology
 
 ### Price Analysis
@@ -142,8 +134,6 @@ Injection / Withdrawal Schedule
       Contract Valuation
 ```
 
-
-
 ## Technologies Used
 
 * **Python**
@@ -153,8 +143,6 @@ Injection / Withdrawal Schedule
 * **SciPy** – Interpolation
 * **Scikit-learn** – Regression-based price estimation
 * **Jupyter Notebook** – Analysis and implementation
-
-
 
 ## Repository Structure
 
@@ -174,8 +162,6 @@ Contains the analysis of historical natural gas prices, seasonal patterns, inter
 **Task 2 – Commodity Storage Contract Pricing**
 
 Contains the storage contract pricing function, storage constraints, cost calculations, and sample contract scenarios.
-
-
 
 ## Assumptions
 
