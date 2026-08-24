@@ -11,7 +11,7 @@ The project consists of two tasks:
 * **Task 1 – Investigate and Analyze Price Data**
 * **Task 2 – Price a Commodity Storage Contract**
 
----
+
 
 ## Business Objective
 
@@ -24,7 +24,7 @@ This project therefore addresses two key requirements:
 1. Develop a method to estimate natural gas prices for dates where market observations are unavailable.
 2. Use those price estimates to calculate the value of a storage contract while considering operational constraints and associated costs.
 
----
+
 
 ## Task 1 – Investigate and Analyze Price Data
 
@@ -51,7 +51,7 @@ Natural gas prices can exhibit seasonal behavior because demand for heating and 
 
 The resulting price function provides the estimated commodity price required by the storage contract pricing model in Task 2.
 
----
+
 
 ## Task 2 – Price a Commodity Storage Contract
 
@@ -102,7 +102,7 @@ The function returns the calculated **value of the storage contract** based on t
 
 Sample scenarios were used to test the pricing function with different injection and withdrawal dates and quantities.
 
----
+
 
 ## Methodology
 
@@ -142,7 +142,7 @@ Injection / Withdrawal Schedule
       Contract Valuation
 ```
 
----
+
 
 ## Technologies Used
 
@@ -154,7 +154,7 @@ Injection / Withdrawal Schedule
 * **Scikit-learn** – Regression-based price estimation
 * **Jupyter Notebook** – Analysis and implementation
 
----
+
 
 ## Repository Structure
 
@@ -175,7 +175,7 @@ Contains the analysis of historical natural gas prices, seasonal patterns, inter
 
 Contains the storage contract pricing function, storage constraints, cost calculations, and sample contract scenarios.
 
----
+
 
 ## Assumptions
 
@@ -198,5 +198,3 @@ Potential improvements to the prototype include:
 * More extensive testing of storage constraints and edge cases.
 * Sensitivity analysis to understand how contract value changes with gas prices, storage costs, and quantities.
 * Discounting of future cash flows when non-zero interest rates are introduced.
-
----
