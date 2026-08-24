@@ -200,9 +200,3 @@ Potential improvements to the prototype include:
 * Discounting of future cash flows when non-zero interest rates are introduced.
 
 ---
-
-🧑‍💻 About Me
-
-Hi there! I'm Kiruthiha. I’m an IT professional working extensively with data to drive insights, support decision-making, and improve business outcomes. I’m passionate about turning raw data into meaningful stories through analysis and visualization.
-
-Let’s connect and discuss how data can power better business outcomes! 🚀
