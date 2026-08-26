@@ -142,7 +142,6 @@ Injection / Withdrawal Schedule
 * **Matplotlib** – Data visualization
 * **SciPy** – Interpolation
 * **Scikit-learn** – Regression-based price estimation
-* **Jupyter Notebook** – Analysis and implementation
 
 ## Repository Structure
 
@@ -172,15 +171,3 @@ The prototype follows the assumptions provided for the exercise:
 * Weekends and market holidays are not explicitly modeled.
 * The available market data is used to estimate prices where direct observations are unavailable.
 * The model is intended as a prototype and would require further validation and testing before production use.
-
-## Future Improvements
-
-Potential improvements to the prototype include:
-
-* More robust time-series forecasting techniques.
-* Formal model validation and backtesting.
-* Improved treatment of seasonality.
-* Incorporation of additional market variables.
-* More extensive testing of storage constraints and edge cases.
-* Sensitivity analysis to understand how contract value changes with gas prices, storage costs, and quantities.
-* Discounting of future cash flows when non-zero interest rates are introduced.
