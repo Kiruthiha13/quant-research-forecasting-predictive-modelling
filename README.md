@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-This project was completed as part of the **JPMorgan Chase Quantitative Research Job Simulation** on Forage.
-
 The project focuses on **natural gas price analysis and commodity storage contract pricing**. The objective was to analyze historical natural gas price data, estimate prices for dates beyond the available market data, and develop a prototype model to value a natural gas storage contract.
 
 The project consists of two tasks:
