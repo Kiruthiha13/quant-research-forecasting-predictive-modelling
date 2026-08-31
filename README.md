@@ -152,14 +152,6 @@ quant-research-forecasting-predictive-modelling/
 └── README.md
 ```
 
-**Task 1 – Price Analysis and Forecasting**
-
-Contains the analysis of historical natural gas prices, seasonal patterns, interpolation, and future price estimation.
-
-**Task 2 – Commodity Storage Contract Pricing**
-
-Contains the storage contract pricing function, storage constraints, cost calculations, and sample contract scenarios.
-
 ## Assumptions
 
 The prototype follows the assumptions provided for the exercise:
